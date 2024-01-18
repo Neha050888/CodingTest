@@ -1,1 +1,0 @@
-{"CustomerId":"7d5a985c","Name":"test","Email":"test@gmail.com","FileName":"7d5a985c_test@gmail.com.txt"}

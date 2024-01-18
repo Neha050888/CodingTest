@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CodingTest.Entities\\CodingTest.Entities.csproj": {}
+    "E:\\CodingTest\\CodingTest.Entities\\CodingTest.Entities.csproj": {}
   },
   "projects": {
-    "D:\\CodingTest.Entities\\CodingTest.Entities.csproj": {
+    "E:\\CodingTest\\CodingTest.Entities\\CodingTest.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CodingTest.Entities\\CodingTest.Entities.csproj",
+        "projectUniqueName": "E:\\CodingTest\\CodingTest.Entities\\CodingTest.Entities.csproj",
         "projectName": "CodingTest.Entities",
-        "projectPath": "D:\\CodingTest.Entities\\CodingTest.Entities.csproj",
+        "projectPath": "E:\\CodingTest\\CodingTest.Entities\\CodingTest.Entities.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\CodingTest.Entities\\obj\\",
+        "outputPath": "E:\\CodingTest\\CodingTest.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
