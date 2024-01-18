@@ -1,0 +1,40 @@
+﻿@model CodingTest.Entities.Models.Customer
+
+@{ Layout = "_Layout"; }
+
+<div class="container">
+
+
+    <form method="post" asp-controller="Customer" asp-action="SaveCustomer">
+        <div class="col-xs-offset-0 col-xs-4">
+            @Html.AntiForgeryToken()
+            <h3><span class="label label-info">Customer</span></h3>
+            @if (ViewBag.FileName != null)
+            {
+<h5 class="text-success">Customer is saved successfully!&nbsp;<a href='~/Files/@ViewBag.FileName' target="_blank" class="label label-info">Click here</a>&nbsp;to view the file.&nbsp;</h5>}
+            
+            <div class="form-group">
+                <label class="control-label" asp-for="Name" >Name</label>
+                <input asp-for="Name" type="text" pattern="[a-zA-Z][a-zA-Z ]{2,}" title="Only characters" required class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" asp-for="Email">Email</label>
+                <input asp-for="Email" type="email" required class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-actions">
+                <input id="Submit" type="submit" class="btn btn-success" value="Save Customer" />
+            </div>
+
+
+
+        </div>
+    </form>
+
+
+
+
+</div>

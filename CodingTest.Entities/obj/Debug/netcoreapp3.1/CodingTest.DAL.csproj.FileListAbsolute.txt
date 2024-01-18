@@ -1,0 +1,9 @@
+D:\CodingTest.DAL\bin\Debug\netcoreapp3.1\CodingTest.DAL.deps.json
+D:\CodingTest.DAL\bin\Debug\netcoreapp3.1\CodingTest.DAL.dll
+D:\CodingTest.DAL\bin\Debug\netcoreapp3.1\CodingTest.DAL.pdb
+D:\CodingTest.DAL\obj\Debug\netcoreapp3.1\CodingTest.DAL.AssemblyInfoInputs.cache
+D:\CodingTest.DAL\obj\Debug\netcoreapp3.1\CodingTest.DAL.AssemblyInfo.cs
+D:\CodingTest.DAL\obj\Debug\netcoreapp3.1\CodingTest.DAL.csproj.CoreCompileInputs.cache
+D:\CodingTest.DAL\obj\Debug\netcoreapp3.1\CodingTest.DAL.dll
+D:\CodingTest.DAL\obj\Debug\netcoreapp3.1\CodingTest.DAL.pdb
+D:\CodingTest.DAL\obj\Debug\netcoreapp3.1\CodingTest.DAL.csprojAssemblyReference.cache
